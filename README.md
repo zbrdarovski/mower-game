@@ -1,12 +1,12 @@
 # Mower (Kosilnica)
 
-### Dinamiko igre:
-* premaknite kosilnico, da režete bambus.
+### Dynamics:
+* move the mower to cut bamboo.
 
-**Pozor: ne udarite v balvane.**
+**Caution: don't hit the boulders.**
 
-### Mehaniko igre:
-* manveri s kosilnico, udarjanje po balvanih, košnja bambov.
+### Mechanics:
+* mower manouvers, collision with boulders, mowing bamboos
 
-### Elemente igre:
-* [slika: kosilnica](https://www.flaticon.com/free-icon/propeller_2233056?term=propeller&page=1&position=27&page=1&position=27&related_id=2233056&origin=search#) (dodano 01.01.2022)
+### Assets:
+* [image: mower](https://www.flaticon.com/free-icon/propeller_2233056?term=propeller&page=1&position=27&page=1&position=27&related_id=2233056&origin=search#) (added 01.01.2022)
