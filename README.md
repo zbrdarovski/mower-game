@@ -1,7 +1,7 @@
 # Mower
 
 ### Dynamics:
-* move the mower to cut bamboo.
+* move the mower to cut bamboo
 
 **Caution: don't hit the boulders.**
 
