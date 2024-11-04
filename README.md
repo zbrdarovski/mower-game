@@ -1,4 +1,4 @@
-# Mower (Kosilnica)
+# Mower
 
 ### Dynamics:
 * move the mower to cut bamboo.
