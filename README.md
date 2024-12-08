@@ -98,3 +98,7 @@ Mower
 
 - Community Support: Thanks to the LibGDX community for tools and guidance.
 - Assets Credits: Graphics and sound effects are credited to their respective creators.
+
+## ⚖️ License
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
